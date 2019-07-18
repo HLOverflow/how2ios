@@ -1,0 +1,13 @@
+# frida
+
+frida-ps -Ua
+
+frida -U -p 1634
+
+# APIs
+
+ObjC.available                                                                                                                             
+
+Process.enumerateModules()
+
+
