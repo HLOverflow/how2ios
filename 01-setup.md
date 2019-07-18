@@ -45,6 +45,12 @@ https://build.frida.re
 https://coolstar.org/publicrepo/
 https://repo.hackyouriphone.org
 
+## Get Cydia
+
+By default Sileo is the only one that will be installed by Electra. 
+
+Using the iphone, visit download.cydiacloud.com to get "Cydia Demo".
+
 ## Get Xcode
 
 Visit "iOS version history - Wikipedia" to find the correct xcode version for macbook.
